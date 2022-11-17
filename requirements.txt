@@ -1,6 +1,5 @@
 rasterio
 geopandas
-xarray
 matplotlib
 pillow
 jupyterlab
